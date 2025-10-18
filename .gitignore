@@ -1,0 +1,8 @@
+
+# macOS Mojave and temporary files
+.DS_Store
+*.log
+
+# Node and AI assistant cache 
+node_modules/
+cline_cache/
