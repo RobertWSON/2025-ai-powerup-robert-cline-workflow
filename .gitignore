@@ -6,3 +6,6 @@
 # Node and AI assistant cache 
 node_modules/
 cline_cache/
+
+# To make sure my API key doesn't get pushed to GitHub, add this line:
+# cline.json No need to have this for Cline use free drop down Model List 
